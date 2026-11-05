@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Optimize>true</Optimize>
+    <AssemblyName>cs-aes-gcm-safe</AssemblyName>
+    <RootNamespace>aes_gcm_safe</RootNamespace>
+    <Description>AES-256-GCM via System.Security.Cryptography with key wrapping</Description>
+    <Authors>Mahmoud ElNemer</Authors>
+    <PackageProjectUrl>https://github.com/ElNeMeR70/cs-aes-gcm-safe</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ElNeMeR70/cs-aes-gcm-safe</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+</Project>
